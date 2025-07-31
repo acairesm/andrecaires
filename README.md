@@ -5,10 +5,10 @@ Sou estudante do 4º período de Engenharia de Software na Universidade Positivo
 Atualmente, estou focado em criar sistemas web utilizando Java, Spring Boot, Angular, entre outras tecnologias modernas.
 
 - 🎓 **Universidade Positivo** — Engenharia de Software (em andamento)  
-- 🔧 **Experiência Acadêmica:** Desenvolvimento de sistemas usando o padrão MVC  
+- 🔧 **Experiência Acadêmica:** Desenvolvimento de sistemas
 - 💡 **Destaque:** Sistema de Pedidos para uma Hamburgueria 🍔  
-- 📬 **Contato:** andrecairesdev@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/andrecaires/) • [GitHub](https://github.com/acairesm)
+- 📬 **Contato:** acairesm4777@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andre-caires-665449218) • [GitHub](https://github.com/acairesm)
 
 ---
 
